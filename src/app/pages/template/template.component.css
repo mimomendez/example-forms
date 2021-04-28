@@ -1,0 +1,9 @@
+h4 {
+    margin-bottom: 25px;
+}
+.btn.btn-outline-primary.btn-block {
+    width: 100%;
+}
+.btn.btn-outline-info {
+    float: right;
+}

@@ -1,0 +1,10 @@
+h4 {
+    margin-bottom: 25px;
+}
+.btn.btn-outline-primary.btn-block {
+    width: 100%;
+}
+.btn.btn-outline-info, .btn.btn-outline-warning {
+    float: right;
+    margin: 0 5px;
+}
